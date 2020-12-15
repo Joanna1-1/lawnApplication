@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Side Projects\LawnApplication\LawnApplication\bin\Debug\netcoreapp3.1\LawnApplication.exe
+C:\Users\admin\Desktop\Side Projects\LawnApplication\LawnApplication\bin\Debug\netcoreapp3.1\LawnApplication.deps.json
+C:\Users\admin\Desktop\Side Projects\LawnApplication\LawnApplication\bin\Debug\netcoreapp3.1\LawnApplication.runtimeconfig.json
+C:\Users\admin\Desktop\Side Projects\LawnApplication\LawnApplication\bin\Debug\netcoreapp3.1\LawnApplication.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Side Projects\LawnApplication\LawnApplication\bin\Debug\netcoreapp3.1\LawnApplication.dll
+C:\Users\admin\Desktop\Side Projects\LawnApplication\LawnApplication\bin\Debug\netcoreapp3.1\LawnApplication.pdb
+C:\Users\admin\Desktop\Side Projects\LawnApplication\LawnApplication\obj\Debug\netcoreapp3.1\LawnApplication.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Side Projects\LawnApplication\LawnApplication\obj\Debug\netcoreapp3.1\LawnApplication.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Side Projects\LawnApplication\LawnApplication\obj\Debug\netcoreapp3.1\LawnApplication.AssemblyInfo.cs
+C:\Users\admin\Desktop\Side Projects\LawnApplication\LawnApplication\obj\Debug\netcoreapp3.1\LawnApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Side Projects\LawnApplication\LawnApplication\obj\Debug\netcoreapp3.1\LawnApplication.dll
+C:\Users\admin\Desktop\Side Projects\LawnApplication\LawnApplication\obj\Debug\netcoreapp3.1\LawnApplication.pdb
+C:\Users\admin\Desktop\Side Projects\LawnApplication\LawnApplication\obj\Debug\netcoreapp3.1\LawnApplication.genruntimeconfig.cache
